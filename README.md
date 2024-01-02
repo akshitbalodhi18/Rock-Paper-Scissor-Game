@@ -21,10 +21,10 @@ Play Again:
 After each round, you can choose to play again by clicking the "PLAY AGAIN" button.
 If you want to start a new game, you can click the "NEXT" button.
 
--Winning Page:
--Whenever you win against the computer, a "NEXT" button appears.
--Clicking the "NEXT" button redirects you to the winning page, regardless of the total scores.
--Celebrate your victory on the congratulations page.
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Winning Page:
+Whenever you win against the computer, a "NEXT" button appears.
+Clicking the "NEXT" button redirects you to the winning page, regardless of the total scores.
+Celebrate your victory on the congratulations page.
 
 Additional Features:
 The "RULES" button provides information about the game rules.
